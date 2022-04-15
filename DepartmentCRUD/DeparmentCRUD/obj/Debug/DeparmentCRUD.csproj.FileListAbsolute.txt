@@ -1,0 +1,14 @@
+F:\DepartmentProjectWCF\DeparmentCRUD\DeparmentCRUD\bin\DeparmentCRUD.dll.config
+F:\DepartmentProjectWCF\DeparmentCRUD\DeparmentCRUD\bin\DeparmentCRUD.dll
+F:\DepartmentProjectWCF\DeparmentCRUD\DeparmentCRUD\bin\DeparmentCRUD.pdb
+F:\DepartmentProjectWCF\DeparmentCRUD\DeparmentCRUD\obj\Debug\DeparmentCRUD.csproj.CoreCompileInputs.cache
+F:\DepartmentProjectWCF\DeparmentCRUD\DeparmentCRUD\obj\Debug\DeparmentCRUD.dll
+F:\DepartmentProjectWCF\DeparmentCRUD\DeparmentCRUD\obj\Debug\DeparmentCRUD.pdb
+F:\DepartmentProjectWCF\DeparmentCRUD\DeparmentCRUD\obj\Debug\DeparmentCRUD.csproj.AssemblyReference.cache
+F:\DepartmentProjectWCF\DepartmentCRUD\DeparmentCRUD\bin\DeparmentCRUD.dll.config
+F:\DepartmentProjectWCF\DepartmentCRUD\DeparmentCRUD\bin\DeparmentCRUD.dll
+F:\DepartmentProjectWCF\DepartmentCRUD\DeparmentCRUD\bin\DeparmentCRUD.pdb
+F:\DepartmentProjectWCF\DepartmentCRUD\DeparmentCRUD\obj\Debug\DeparmentCRUD.csproj.CoreCompileInputs.cache
+F:\DepartmentProjectWCF\DepartmentCRUD\DeparmentCRUD\obj\Debug\DeparmentCRUD.dll
+F:\DepartmentProjectWCF\DepartmentCRUD\DeparmentCRUD\obj\Debug\DeparmentCRUD.pdb
+F:\DepartmentProjectWCF\DepartmentCRUD\DeparmentCRUD\obj\Debug\DeparmentCRUD.csproj.AssemblyReference.cache

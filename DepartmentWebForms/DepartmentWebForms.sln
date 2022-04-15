@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepartmentWebForms", "DepartmentWebForms\DepartmentWebForms.csproj", "{AEC32C03-547E-463F-B6A2-655F3856D612}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3ED07A73-94AA-4883-8A2F-9237A80EF964} = {3ED07A73-94AA-4883-8A2F-9237A80EF964}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeparmentCRUD", "..\DepartmentCRUD\DeparmentCRUD\DeparmentCRUD.csproj", "{3ED07A73-94AA-4883-8A2F-9237A80EF964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC32C03-547E-463F-B6A2-655F3856D612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC32C03-547E-463F-B6A2-655F3856D612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC32C03-547E-463F-B6A2-655F3856D612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC32C03-547E-463F-B6A2-655F3856D612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED07A73-94AA-4883-8A2F-9237A80EF964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED07A73-94AA-4883-8A2F-9237A80EF964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED07A73-94AA-4883-8A2F-9237A80EF964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED07A73-94AA-4883-8A2F-9237A80EF964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5334720B-A0EA-4966-AFA7-40F0CE3AF5EE}
+	EndGlobalSection
+EndGlobal
